@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^salajased_paroolid.txt - [L,R=404]
